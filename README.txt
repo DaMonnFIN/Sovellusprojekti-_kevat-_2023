@@ -1,0 +1,1 @@
+Tämä tiedosto luotu git touch komennolla testiksi.
